@@ -20,14 +20,14 @@ Purpose: This app is intended to help people keep track of their health habits, 
 ![Insights Page](assets/insights.png)
 
 
-
+### Key Features
 - Tasks: Users can track everything they need to do and stay consistent, such as remembering to take their medications or apply treatments. 
 - Journal: Each day, users can log their condition, reflecting on how they felt and whether there was any improvement. 
 - Logging Potential Confounding Variables: Sleep amount and weather are factors that could potentially affect health, so the app allows users to log how much they sleep every night and it keeps track of weather conditions. 
 - Monitor Progress: There’s a page for users to see photos of their condition over time, if needed.
 
 
-Obstacles:
+### Obstacles
 - One of the APIs I used needed the information to be used differently than how we were taught in the bootcamp. I had to figure out how to adjust and use the new method instead. 
 - Understanding how everything was supposed to fit together was a bit of a struggle. Figuring out how different parts of it connected and worked was a learning curve for me.
 - I also struggled with getting the syntax right throughout the project. Small errors would pop up that confused me, and I had to spend time figuring out what was wrong and how to fix them.
@@ -35,7 +35,7 @@ Obstacles:
 - I wanted to be able to have more advanced displays, like custom calendar views and scrollable progress photos arranged in order of date, but that’s also outside of my ability right now.
 
 
-Future Additions:
+### Future Additions
 - I want to add the ability to store user inputs so that they can be used to display insights, statistics, and trends. A key feature I would like to introduce is progress tracking. Users would be able to see progress bars that show how much of their tasks they completed over different periods of time, like daily, weekly, or monthly. They would also be able to filter by individual tasks. For example, they can see that they completed 70% of a specific task  or view their overall completion rates, such as completing 80% of all assigned tasks during a week, month, or year.
 - I also want to give users the ability to create custom symptoms and rate the severity of each symptom every day. This information would be logged and stored to help them identify patterns over time and better understand how their condition changes.
 - Another feature is the creation of customizable routines. Users would be able to set up routines that involve completing tasks in a specific order on specific days, rather than simply repeating all tasks daily. For example, some treatments might only need to be done every other day, or certain tasks might need to happen in a particular sequence. The app would automatically update and display only the tasks required for the current day, helping users stay organized without overwhelming them with irrelevant tasks.
