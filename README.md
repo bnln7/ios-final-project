@@ -3,7 +3,7 @@ Purpose: This app is intended to help people keep track of their health habits, 
 
 ## Demo
 
-[Watch the Demo Video Here](https://drive.google.com/file/d/1BHNcbVcsTNd8mheCZFWzfdb6bxr1VZC1/view?usp=sharing)
+[Demo Video Link](https://drive.google.com/file/d/1BHNcbVcsTNd8mheCZFWzfdb6bxr1VZC1/view?usp=sharing)
 
 ## Screenshots
 
