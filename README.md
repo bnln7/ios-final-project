@@ -1,11 +1,11 @@
 Health App
 Purpose: This app is intended to help people keep track of their health habits, treatments, and progress. It allows users to check off tasks they need to do consistently and log confounding variables that may have an impact on their health.
 
-## Demo
+## Video
 
 [Demo Video Link](https://drive.google.com/file/d/1BHNcbVcsTNd8mheCZFWzfdb6bxr1VZC1/view?usp=sharing)
 
-## Screenshots
+## Photos
 
 ### Home Page
 ![Home Page](assets/home_page.png)
